@@ -5,7 +5,7 @@ const listEl = document.getElementById("item")
 
 function add() {
     if (inputEl.value == "") {
-        alert("enter item")
+        alert("You forgot to enter an item.")
     } else {
         listEl.innerHTML += `
             <li onclick="this.style.display='none'">
