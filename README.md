@@ -6,5 +6,7 @@
 ![gif2](https://github.com/ladyMariele/cat-checklist/assets/102813740/e7553a34-dbff-4ee3-8c6a-1bdcbd2e09e1)
 
 ### this webapp is also PWA ready :)
-1. visit the [live site](https://ladymariele.github.io/cat-checklist/) in your phone browser
+  that means this webapp also works like a native app on your mobile devices (android/iOS)
+  
+1. visit the [live site](https://ladymariele.github.io/cat-checklist/) in your phone browser.
 2. in your browser, go to settings, then tap "Add to Home Screen"
