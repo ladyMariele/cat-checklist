@@ -68,3 +68,20 @@ footer {
 a {
     color: #f5baba;
 }
+
+/* ======== dark mode ========= */
+
+@media (prefers-color-scheme: dark) {
+    body {
+      /* color: #e1d9d1; */
+      background-color: #222222;
+    }
+    input {
+        background-color: #EEEEEE;
+        color: #222222;
+    }
+    li {
+        background-color: #363636;
+        color: #FDFDFD;
+    }
+  }
